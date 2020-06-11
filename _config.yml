@@ -57,8 +57,10 @@ plugins:
 author:
   name   : "Darin Self"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : >- "PhD Candidate 
+  bio    : "PhD Candidate 
+  
             Comparative Politics
+            
              Cornell University"
   links:
     - label: "Twitter"
