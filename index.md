@@ -3,6 +3,7 @@ permalink: /
 title: 
 excerpt: 
 author_profile: true
+hidden: true
 header:
   image: /assets/images/borabordur.jpg
   
