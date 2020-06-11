@@ -19,6 +19,6 @@ My other research looks at the role of authoritarian incumbent parties and their
 
 I have received several awards and fellowships including the Fulbright Fellowship, Henry Luce Foundation Research Grant, Southeast Asian Research Group pre-dissertation Fellowship, Foreign Language and Area Studies Fellowship, and have served as a Cornell Latin American Studies Program fellow. 
 
-Please find my [CV here](https://github.com/dsself/dsself.github.io/blob/master/files/CurrentCV.pdf). 
+Please find my [CV here](/assets/files/CurrentCV.pdf). 
 
 You can email me at lastname.firstname [at] gmail.com
