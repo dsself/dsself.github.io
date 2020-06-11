@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Darin Self, Cornell University
+title: Darin Self -- Cornell University
 email:
 description:  Website for Darin Self
 twitter_username: darinself
@@ -57,7 +57,9 @@ plugins:
 author:
   name   : "Darin Self"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : "PhD Candidate, Comparative Politics, Cornell University."
+  bio    : "PhD Candidate 
+            Comparative Politics
+             Cornell University"
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
