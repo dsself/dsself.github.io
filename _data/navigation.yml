@@ -5,5 +5,7 @@ main:
     url: /workingpapers/
   - title: "Teaching"
     url: /teaching/
+  - title: "CV"
+    url: /cv/
   - title: "Data"
     url: /data/
