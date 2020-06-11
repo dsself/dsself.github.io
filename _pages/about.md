@@ -1,5 +1,5 @@
 ---
-permalink: https://www.darinself.com/
+permalink: https://dsself.github.io
 title: 
 excerpt: 
 author_profile: true
