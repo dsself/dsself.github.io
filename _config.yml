@@ -19,7 +19,7 @@ description:  Website for Darin Self
 twitter_username: darinself
 github_username: dsself
 minimal_mistakes_skin: default
-search: true
+search: false
 
 # Build settings
 markdown: kramdown
@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Darin Self"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : "PhD Candidate 
+  bio    : >- "PhD Candidate 
             Comparative Politics
              Cornell University"
   links:
@@ -87,10 +87,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+      read_time: false
+      comments: false
+      share: false
+      related: false
   # _pages
   - scope:
       path: "_pages"
