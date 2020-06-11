@@ -13,12 +13,9 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: Darin Self
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: >- Website for Darin Self
 twitter_username: darinself
 github_username: dsself
 minimal_mistakes_skin: default
@@ -60,7 +57,7 @@ plugins:
 author:
   name   : "Darin Self"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "PhD Candidate, Comparative Politics, Cornell University."
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
