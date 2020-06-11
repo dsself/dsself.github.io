@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: https://www.darinself.com/
 title: 
 excerpt: 
 author_profile: true
