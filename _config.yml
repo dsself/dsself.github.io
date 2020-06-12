@@ -74,7 +74,9 @@ author:
     # -label: "Research Gate"
     #  icon: "fab fa-fw fa-registered"
     #  url: "https://www.researchgate.net/profile/Darin_Self"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:self.darin@gmail.com"
 
 
 #footer:
