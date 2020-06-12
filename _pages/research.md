@@ -3,6 +3,7 @@ layout: archive
 title: "Research"
 permalink: /research/
 author_profile: true
+classes: wide
 ---
 
 My research agenda focuses on authoritarian institutions and how they affect the exercise of power within authoritarian regimes, regime transitions, and democracy. Specifically, I focus on two key actors which are critical to political outcomes both when regimes are stable, and during transitions: the military and incumbent authoritarian party. My research keys on how the relationship between these two actors affects elites' ability to monopolize power, or willingness to cede to demands for democratization. To conduct my research I use a variety of methodological tools, including qualitative and quantitative approaches best suited to answer my research questions. To date, I have training and practical experience in archival, interview, comparative-historical, regression, and experimental methods.
