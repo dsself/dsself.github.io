@@ -5,8 +5,7 @@ excerpt: "<br/> "
 author_profile: true
 hidden: true
 header:
-  overlay_image: /assets/images/borabordur.jpg
-  overlay_filter: 1.0
+  image: /assets/images/borabordur.jpg
 classes: wide
   
 ---
