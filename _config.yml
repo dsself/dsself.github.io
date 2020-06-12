@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dsself"
     - label: "Scholar"
-      icon: <img src="https://img.icons8.com/material-sharp/24/000000/google-scholar.png"/>
+      icon: "/assets/images/icons8-google-scholar-24.png"
       url: "https://scholar.google.com/citations?hl=en&user=YJWrC5APERQC"
 
 
