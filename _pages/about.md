@@ -9,6 +9,8 @@ redirect_from:
 header:
   image: /assets/images/borabordur.jpg
   
+classes: wide
+  
 ---
 I am a PhD Candidate in the Department of Government at Cornell University. I specialize in Comparative Politics with a minor in International Relations. My committee is comprised of Thomas Pepinsky (chair), Rachel Riedl, Kenneth Roberts, and Nic van de Walle. My research focuses on authoritarian incubment parties, militaries, party systems, and democratization.  
 
