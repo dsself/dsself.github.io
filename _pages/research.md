@@ -8,7 +8,13 @@ classes: wide
 
 My research agenda focuses on authoritarian institutions and how they affect the exercise of power within authoritarian regimes, regime transitions, and democracy. Specifically, I focus on two key actors which are critical to political outcomes both when regimes are stable, and during transitions: the military and incumbent authoritarian party. My research keys on how the relationship between these two actors affects elites' ability to monopolize power, or willingness to cede to demands for democratization. 
 
+{:.center}
 ![](/assets/images/figure1_2.jpg#center)
+<style>
+.center {
+    text-align:center;
+}
+</style>
 
 I find that authoritarian incumbent parties are key in providing the conditions for both authoritarian regime durability and breakdown. When authoritarian incumbent parties are strong, and do not need alternative partners, authoritarianism endures. When these parties rule with other partners, such as the military, the dynamics are quite different.  When the military rules, the presence of a strong, well-institutionalized, political party, which shares a vision of the national project with the military, democratization on civilian terms is more likely. 
 
