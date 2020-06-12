@@ -69,11 +69,11 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dsself"
     - label: "Scholar"
-      icon: "graduation-cap"
+      icon: "fab fa-fw fa-google"
       url: "https://scholar.google.com/citations?hl=en&user=YJWrC5APERQC"
-     -label: "Research Gate"
-      icon: "registered"
-      url: "https://www.researchgate.net/profile/Darin_Self"
+     #-label: "Research Gate"
+     # icon: "registered"
+     # url: "https://www.researchgate.net/profile/Darin_Self"
 
 
 
