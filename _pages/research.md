@@ -15,10 +15,11 @@ C[Antecedent <br/> Conditions] -->B
 
 B -->|High|D[Unbounded <br/> Democratization] 
 B -->|Low|E[Bounded <br/> Democratization] 
-```
+ ```
 I find that authoritarian incumbent parties are key in providing the conditions for both authoritarian regime durability and breakdown. When authoritarian incumbent parties are strong, and do not need alternative partners, authoritarianism endures. When these parties rule with other partners, such as the military, the dynamics are quite different.  When the military rules, the presence of a strong, well-institutionalized, political party, which shares a vision of the national project with the military, democratization on civilian terms is more likely. 
 
-[](/assets/images/fieldwork2.jpg)
+
+<img src="/assets/images/fieldwork2.jpg" height="500" width="1000">
 
 Other research I have conducted also explores the role these authoritarian incumbent parties have on democratic development. In two difference projects, I have explored both the role of the authoritarian incumbent party has on party system development and the political prospects of former military officers. I find that when authoritarian incumbent parties were institutionalized and ruled prior to the end of authoritarianism, they use their power to undermine the development of the party system. When these parties are formed just prior to, or following, democratization, and did not rule, party system development improves. 
 
