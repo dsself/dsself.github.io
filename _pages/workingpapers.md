@@ -3,6 +3,7 @@ layout: archive
 title: "Working Papers"
 permalink: /workingpapers/
 author_profile: true
+classes: wide
 ---
 
 ## The V-Dem Party Institutionalization Index: A New Global Indicator (1900-2018) -- with Fernando Bizzarro and Allen Hicken
