@@ -16,7 +16,7 @@ I find that authoritarian incumbent parties are key in providing the conditions 
 
 Other research I have conducted also explores the role these authoritarian incumbent parties have on democratic development. In two difference projects, I have explored both the role of the authoritarian incumbent party has on party system development and the political prospects of former military officers. I find that when authoritarian incumbent parties were institutionalized and ruled prior to the end of authoritarianism, they use their power to undermine the development of the party system. When these parties are formed just prior to, or following, democratization, and did not rule, party system development improves. 
 
-
+<img src="/assets/images/fieldwork2.jpg" height="450" width="1000">
 
 I also find that these parties are key to keeping former military officers sidelined following a transition. The authoritarian incumbent party’s institutionalization prevents former officers from capturing the party following democratization and allows civilians to keep control of the party. When these parties electorally strong, former officers cannot simply start their own parties and compete electorally. These two factors combined affect whether former officers will be sidelined, or whether they can proliferate within the political system. 
 
