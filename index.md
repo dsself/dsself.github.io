@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: 
-excerpt: " "
+excerpt: "<br/> "
 author_profile: true
 hidden: true
 header:
