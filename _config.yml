@@ -69,7 +69,7 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/dsself"
     - label: "Scholar"
-      icon: "graduation_cap"
+      icon: "graduation-cap"
       url: "https://scholar.google.com/citations?hl=en&user=YJWrC5APERQC"
      -label: "Research Gate"
       icon: "registered"
