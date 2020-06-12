@@ -6,7 +6,7 @@ author_profile: true
 hidden: true
 header:
   overlay_image: /assets/images/borabordur.jpg
-  overlay_filter: 0.0
+  overlay_filter: 1.0
 classes: wide
   
 ---
