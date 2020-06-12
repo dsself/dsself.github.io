@@ -57,7 +57,7 @@ plugins:
 author:
   name   : "Darin Self"
   avatar : "/assets/images/headshot2.jpg"
-  bio    : "PhD Candidate" 
+  bio    : "PhD Candidate <br/>
            "Comparative Politics
             Cornell University"
   location: Ithaca, NY
