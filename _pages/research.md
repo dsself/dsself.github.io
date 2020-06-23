@@ -9,7 +9,7 @@ My research agenda focuses on authoritarian institutions and how they affect the
 
 In the dissertation I argue that militaries are willing to allow unbounded democratization, or the ability of civilians to design political institutions without the military interference, when their confidence in civilian parties, specifically the authoritarian incumbent party, is high. When their confidence in the incumbent party is low, the military is more cautious about democracy and uses its power to set terms on how power can be exercised following a transition to civilian rule. The military’s confidence in incumbent parties is a function of the trust between the military and the party, the degree of party institutionalization, and the electoral strength of the party. These three factors are antecedent conditions, existing prior to the failure of the regime, and affect the strategic decisions of the military during a regime transition. This is demonstrated in the figure below.
 
-![](/assets/images/figure1_2.jpg)
+![](/assets/images/figure2_1.jpg)
 
 I find that authoritarian incumbent parties are key in providing the conditions for both authoritarian regime durability and breakdown. When authoritarian incumbent parties are strong, and do not need alternative partners, authoritarianism endures. When these parties rule with other partners, such as the military, the dynamics are quite different.  When the military rules, the presence of a strong, well-institutionalized, political party, which shares a vision of the national project with the military, democratization on civilian terms is more likely. 
 
