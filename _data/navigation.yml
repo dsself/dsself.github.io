@@ -3,6 +3,8 @@ main:
     url: /research/
   - title: "Working Papers"
     url: /workingpapers/
+  - title: "Job Market Paper"
+    url: /jobmarketpaper/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
