@@ -21,6 +21,6 @@ increases and it becomes more willing to yield to civilian parties. Using compar
 historical analysis on a paired comparison of Indonesia and Paraguay I test the causal
 mechanisms and then use quantitative models to show that the mechanisms are generalizable.
 
-[__Download the job market paper here__](/assets/files/jmp.pdf)
+[__Download the job market paper here.__](/assets/files/jmp.pdf)
 
 
