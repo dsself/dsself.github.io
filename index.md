@@ -9,7 +9,7 @@ header:
 classes: wide
   
 ---
-I am a PhD Candidate in the Department of Government at Cornell University. I specialize in Comparative Politics with a minor in International Relations. My committee is comprised of Thomas Pepinsky (chair), Rachel Beatty Riedl, Kenneth Roberts, and Nic van de Walle. My research focuses on authoritarian incubment parties, militaries, party systems, and democratization.  
+I am a PhD Candidate in the Department of Government at Cornell University. I specialize in Comparative Politics with a minor in International Relations. My committee is comprised of Thomas Pepinsky (chair), Rachel Beatty Riedl, Kenneth Roberts, and Nic van de Walle. My research focuses on authoritarian incumbent parties, militaries, party systems, and democratization.  
 
 
 My dissertation explains why some militaries support democratization. Specifically, I explain why some militaries set parameters on electoral, legislative, or executive institutions. I argue that militaries do this when their confidence in the ability of civilians to secure their core interests under democracy is low. The military’s confidence in civilians is higher when the military and civilians share a vision of the national project, and when parties allied with the military are institutionalized and electorally strong. I test this argument using mixed-methods, including archival research and elite interviews conducted in Indonesia and Paraguay, and cross-national quantitative data using an original dataset I have created on military behavior during 150 different regime transitions following military-backed authoritarian rule. 
