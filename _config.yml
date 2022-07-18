@@ -55,12 +55,12 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Darin Self"
-  avatar : "/assets/images/headshot2.jpg"
-  bio    : "PhD Candidate <br/>
-            Comparative Politics <br/>
-            Cornell University"
-  location: Ithaca, NY
+  name   : "Darin Sanders Self"
+  avatar : "/assets/images/headshot3.jpg"
+  bio    : "Assisstang Professor <br/>
+            Department of Political Science <br/>
+            Brigham Young Univeristy"
+  location: Provo, UT
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
@@ -70,13 +70,13 @@ author:
       url: "https://github.com/dsself"
     - label: "Scholar"
       icon: "fab fa-fw fa-google"
-      url: "https://scholar.google.com/citations?hl=en&user=YJWrC5APERQC"
+      url: "https://scholar.google.com/citations?user=YJWrC5APERQC&hl"
     # -label: "Research Gate"
     #  icon: "fab fa-fw fa-registered"
     #  url: "https://www.researchgate.net/profile/Darin_Self"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:self.darin@gmail.com"
+      url: "mailto:darin_self@byu.edu"
 
 
 #footer:
