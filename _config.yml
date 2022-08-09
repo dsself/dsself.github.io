@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Darin Self
 email:
-description:  Website for Darin Self
+description:  Website for Darin Sanders Self
 twitter_username: darinself
 github_username: dsself
 minimal_mistakes_skin: default
