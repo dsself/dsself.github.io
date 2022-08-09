@@ -1,10 +1,10 @@
 main:
   - title: "Research"
     url: /research/
+  - title: "Publications"
+    url: /publications/
   - title: "Working Papers"
     url: /workingpapers/
-  - title: "Job Market Paper"
-    url: /jobmarketpaper/
   - title: "Teaching"
     url: /teaching/
   - title: "CV"
