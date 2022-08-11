@@ -62,9 +62,6 @@ author:
             Brigham Young Univeristy"
   location: Provo, UT
   links:
-    - label: "Students"
-      icon: "fab fa-fw fa-backpack"
-      url: "https://calendly.com/darinself"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/darinself"
