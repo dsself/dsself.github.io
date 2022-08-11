@@ -15,7 +15,7 @@ My book project explains why some militaries support democratization. I explain 
 
 My other research looks at the role of authoritarian incumbent parties and their effects on various aspects of democratic development and consolidation. For example, I have working papers under review on how authoritarian incumbent parties affect democratic party system development globally, as well as how these parties restrain former military officers' political prospects. These papers, along with other papers, can be found in [Working Papers](https://dsself.github.io/workingpapers/). I have begun new projects looking at how militaries affect the formation of competitive authoritarian regimes, how militaries have changed their strategies in constraining civilians over time, and how caretaker military regimes use their power to restructure democracies following coups. 
 
-I have received several awards and fellowships including the Fulbright Fellowship, Henry Luce Foundation Research Grant, Southeast Asian Research Group pre-dissertation Fellowship, Foreign Language and Area Studies Fellowship, and have served as a Cornell Latin American Studies Program fellow. 
+I currently teach BYU's core course on comparative politics and a course on authoritarianism and democracy. Students can sign up to meet with me [here](https://calendly.com/darinself)
 
 Please find my [CV here](/assets/files/CurrentCV.pdf). 
 
