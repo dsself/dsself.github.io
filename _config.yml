@@ -63,7 +63,7 @@ author:
   location: Provo, UT
   links:
     - label: "Students"
-      icon: "fab fa-fw fa-backpack"
+      icon: "fas fa-fw fa-backpack"
       url: "https://calendly.com/darinself"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
