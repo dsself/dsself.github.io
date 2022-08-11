@@ -63,7 +63,7 @@ author:
   location: Provo, UT
   links:
     - label: "Student Hours"
-      icon: "fab fa-fw fa-solid fa-school"
+      icon: "fab fa-fw fa-school"
       url: "https://calendly.com/darinself"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
