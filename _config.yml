@@ -18,7 +18,10 @@ email:
 description:  Website for Darin Sanders Self
 twitter_username: darinself
 github_username: dsself
-minimal_mistakes_skin: default
+#minimal_mistakes_skin: default
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 search: false
 
 # Build settings
