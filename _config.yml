@@ -54,7 +54,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-  - jekyll-remote-theme
+
 
 author:
   name   : "Darin Sanders Self"
