@@ -18,8 +18,8 @@ email:
 description:  Website for Darin Sanders Self
 twitter_username: darinself
 github_username: dsself
-#minimal_mistakes_skin: default
-remote_theme: pages-themes/cayman@v0.2.0
+minimal_mistakes_skin: default
+
 
 search: false
 
