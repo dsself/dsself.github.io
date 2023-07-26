@@ -8,4 +8,6 @@ classes: wide
 
 Test page for conducting in class polls
 
-/polls Option1 'Option 2' "Option 3"
+$ go get github.com/apex/gh-polls/cmd/polls
+
+$ polls new Tobi Loki Jane
