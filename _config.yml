@@ -19,8 +19,6 @@ description:  Website for Darin Sanders Self
 twitter_username: darinself
 github_username: dsself
 minimal_mistakes_skin: default
-
-
 search: false
 
 # Build settings
@@ -54,7 +52,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  - jekyll-include-cache
 
 author:
   name   : "Darin Sanders Self"
